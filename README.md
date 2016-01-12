@@ -15,3 +15,9 @@ docker-machine ip dev
 ```
 or use this reference: https://docs.docker.com/machine/reference/ip/
 
+# Stopping the container
+To stop the container:
+```
+docker ps
+docker stop [container id]
+```
