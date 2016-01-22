@@ -6,7 +6,7 @@ To run the container,
 
 ```
 # To run LINCS L1++ Extractor
-docker run -p 80:80 -rm -d uwtbio/lincs-extractor-test 
+docker run -p 80:80 -d uwtbio/lincs-l1k
 ```
 
 It may take a little while to get the package downloaded. Once downloaded the LINCS-EXTRACTOR should be available on port 80 (or any other specified port) where the docker is hosted, use any browser to access the LINCS Extractor (e.g: http://localhost, or http://192.168.99.104).  
