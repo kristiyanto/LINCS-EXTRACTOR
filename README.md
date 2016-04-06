@@ -1,6 +1,6 @@
 L1K++ 
 
-![L1K++ Logo][L1k++small.jpg]
+![L1K++ Logo](L1k++small.jpg)
 
 
 # LINCS-EXTRACTOR
