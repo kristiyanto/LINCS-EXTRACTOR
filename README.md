@@ -1,10 +1,9 @@
-L1K++ 
 
 ![L1K++ Logo](L1k++small.jpg)
 
 
-# LINCS-EXTRACTOR
-Thsi is a docker package for Lincs L1K++ Metadata explorer and extractor. 
+# L1K++
+This is a docker package for Lincs L1K++ Metadata explorer and extractor. 
 
 # Running the container
 To run the container, 
